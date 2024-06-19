@@ -7,7 +7,7 @@ This repository contains an analysis of the Titanic dataset, which includes info
 
 
 ## DATASET
-The given titanic csv.csv dataset  contains 21 rows, each representing a passenger, and 18 columns:
+The given [titanic csv.csv](https://github.com/JasnaNC/PRODIGY_DS_01/commit/dfb33826e94bab9d1c05facec3111fe50dfdc207) dataset  contains 21 rows, each representing a passenger, and 18 columns:
 
 - Passenger_No: Passenger's number
 - first_ame: The passenger's first name
