@@ -2,10 +2,14 @@
 
 ###Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
+
 ##INTRODUCTION
+
 This repository contains an analysis of the Titanic dataset, which includes information about passengers who sailed on the RMS Titanic.The dataset is a commonly used example of a binary classification issue, in which it is necessary to determine, in light of multiple variables, the probability that a passenger survived.
 
+
 ##DATASET
+
 The given titanic csv.csv dataset  contains 21 rows, each representing a passenger, and 18 columns:
 
 - Passenger_No: Passenger's number
@@ -27,9 +31,13 @@ The given titanic csv.csv dataset  contains 21 rows, each representing a passeng
 - alone:The passenger's are alone or not
 - DECK_NUMBER:The passenger's deck number(60,70,80,90 or 100)
 
+
 ##CONCLUSION
+
 The visualization of different categorical values in the Titanic dataset has provided valuable insights into the factors that affected the survival rate of passengers. Specifically, the analysis has shown that younger people, females, and those in the Upper class were more likely to survive the disaster.
 
+
 ##CONTACT INFORMATION
+
 If you have any queries or would like to provide feedback on this project, please reach out to 
 jasnanc40@gmail.com
